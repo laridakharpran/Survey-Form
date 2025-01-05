@@ -1,6 +1,6 @@
 # Survey Form
 
-<img src="https://i.ibb.co/m9xXN2J/2025-01-06-015206.png" alt="Survey-Form-Screenshot">
+<img src="https://i.ibb.co/dPhLmVB/2025-01-06-015206.png" alt="Survey Form Screenshot" border="0">
 
 Build a Survey Form
 Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks. Do not copy this demo project. <br>
